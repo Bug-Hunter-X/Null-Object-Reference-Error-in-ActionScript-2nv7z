@@ -1,0 +1,1 @@
+This repository contains an example of a common ActionScript error: a null object reference error. This error occurs when you try to access a property of an object that is null. The solution demonstrates how to avoid this error using conditional checks.
